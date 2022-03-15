@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Metafrica.github.io/metafricaweb/static/css/main.3efe9662.css",
+    "main.js": "/Metafrica.github.io/metafricaweb/static/js/main.6db61860.js",
+    "static/js/787.028672a5.chunk.js": "/Metafrica.github.io/metafricaweb/static/js/787.028672a5.chunk.js",
+    "static/media/instagram.png": "/Metafrica.github.io/metafricaweb/static/media/instagram.b961d57f23cac7fdb143.png",
+    "static/media/discord.png": "/Metafrica.github.io/metafricaweb/static/media/discord.ac5bb67c8f447d6c101d.png",
+    "static/media/metafrica_logo.png": "/Metafrica.github.io/metafricaweb/static/media/metafrica_logo.f88ba89f124d6f01001d.png",
+    "static/media/twitter.png": "/Metafrica.github.io/metafricaweb/static/media/twitter.f963dcac51d5020e10f3.png",
+    "static/media/logo.svg": "/Metafrica.github.io/metafricaweb/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/tricolor.svg": "/Metafrica.github.io/metafricaweb/static/media/tricolor.3f60018247405a02c2977d960162f11e.svg",
+    "index.html": "/Metafrica.github.io/metafricaweb/index.html",
+    "main.3efe9662.css.map": "/Metafrica.github.io/metafricaweb/static/css/main.3efe9662.css.map",
+    "main.6db61860.js.map": "/Metafrica.github.io/metafricaweb/static/js/main.6db61860.js.map",
+    "787.028672a5.chunk.js.map": "/Metafrica.github.io/metafricaweb/static/js/787.028672a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3efe9662.css",
+    "static/js/main.6db61860.js"
+  ]
+}
