@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/website/static/css/main.3efe9662.css",
-    "main.js": "/website/static/js/main.f6581ba0.js",
-    "static/js/787.028672a5.chunk.js": "/website/static/js/787.028672a5.chunk.js",
-    "static/media/instagram.png": "/website/static/media/instagram.b961d57f23cac7fdb143.png",
-    "static/media/discord.png": "/website/static/media/discord.ac5bb67c8f447d6c101d.png",
-    "static/media/metafrica_logo.png": "/website/static/media/metafrica_logo.f88ba89f124d6f01001d.png",
-    "static/media/twitter.png": "/website/static/media/twitter.f963dcac51d5020e10f3.png",
-    "static/media/logo.svg": "/website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "static/media/tricolor.svg": "/website/static/media/tricolor.3f60018247405a02c2977d960162f11e.svg",
-    "index.html": "/website/index.html",
-    "main.3efe9662.css.map": "/website/static/css/main.3efe9662.css.map",
-    "main.f6581ba0.js.map": "/website/static/js/main.f6581ba0.js.map",
-    "787.028672a5.chunk.js.map": "/website/static/js/787.028672a5.chunk.js.map"
+    "main.css": "/static/css/main.3efe9662.css",
+    "main.js": "/static/js/main.be826cf3.js",
+    "static/js/787.028672a5.chunk.js": "/static/js/787.028672a5.chunk.js",
+    "static/media/instagram.png": "/static/media/instagram.b961d57f23cac7fdb143.png",
+    "static/media/discord.png": "/static/media/discord.ac5bb67c8f447d6c101d.png",
+    "static/media/metafrica_logo.png": "/static/media/metafrica_logo.f88ba89f124d6f01001d.png",
+    "static/media/twitter.png": "/static/media/twitter.f963dcac51d5020e10f3.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/tricolor.svg": "/static/media/tricolor.3f60018247405a02c2977d960162f11e.svg",
+    "index.html": "/index.html",
+    "main.3efe9662.css.map": "/static/css/main.3efe9662.css.map",
+    "main.be826cf3.js.map": "/static/js/main.be826cf3.js.map",
+    "787.028672a5.chunk.js.map": "/static/js/787.028672a5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3efe9662.css",
-    "static/js/main.f6581ba0.js"
+    "static/js/main.be826cf3.js"
   ]
 }
